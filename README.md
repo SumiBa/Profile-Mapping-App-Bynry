@@ -44,7 +44,7 @@ Make sure you have the following installed on your machine:
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/SumiBa/Profile-Mapping-App-Bynry.git
+git clone https://github.com/SumiBa/Profile-Mapping-App-Bynry.git  
 cd Profile-Mapping-App-Bynry/frontend
 
 2. **Install Dependencies**
@@ -55,24 +55,23 @@ npm install
 
 npm run dev
 
-
 **Key Dependencies**
 
--react and react-dom: React framework
--vite: Development server and build tool
--tailwindcss: Utility-first CSS framework
--leaflet and react-leaflet: Interactive maps
--react-toastify: Toast notifications
--@vitejs/plugin-react: Vite plugin for React support
-
+- react and react-dom: React framework  
+- vite: Development server and build tool  
+- tailwindcss: Utility-first CSS framework  
+- leaflet and react-leaflet: Interactive maps  
+- react-toastify: Toast notifications  
+- @vitejs/plugin-react: Vite plugin for React support
 
 **How to Use**
 
--View profiles: Profiles are listed on the homepage.
--Search: Use the search bar to filter profiles by name.
--Summary button: Click to view the selected profile’s location on the map.
--View Details: Click to see detailed profile information.
--Add Profile: Use the form to add a new profile.
--Edit/Delete: Use the respective buttons on each profile card to update or remove profiles.
--Notifications: Success or error messages appear via toast notifications.
--Loading: Custom spinner shows during data fetching or map loading.
+- View profiles: Profiles are listed on the homepage.  
+- Search: Use the search bar to filter profiles by name.  
+- Summary button: Click to view the selected profile’s location on the map.  
+- View Details: Click to see detailed profile information.  
+- Add Profile: Use the form to add a new profile.  
+- Edit/Delete: Use the respective buttons on each profile card to update or remove profiles.  
+- Notifications: Success or error messages appear via toast notifications.  
+- Loading: Custom spinner shows during data fetching or map loading.
+
