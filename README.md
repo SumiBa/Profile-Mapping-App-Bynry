@@ -39,7 +39,7 @@ Make sure you have the following installed on your machine:
 
 ---
 
-### Installation
+### Installation 
 
 1. **Clone the repository**
 
