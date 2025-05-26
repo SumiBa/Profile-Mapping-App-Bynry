@@ -41,21 +41,24 @@ Make sure you have the following installed on your machine:
 
 ### Installation 
 
-1. **Clone the repository**
+1. Clone the repository
 
-```bash
+```
 git clone https://github.com/SumiBa/Profile-Mapping-App-Bynry.git  
 cd Profile-Mapping-App-Bynry/frontend
+```
 
-2. **Install Dependencies**
-
+2. Install Dependencies
+```
 npm install
+```
 
-3. **Available Scripts**
-
+3. Available Scripts
+```
 npm run dev
+```
 
-**Key Dependencies**
+Key Dependencies
 
 - react and react-dom: React framework  
 - vite: Development server and build tool  
@@ -64,7 +67,7 @@ npm run dev
 - react-toastify: Toast notifications  
 - @vitejs/plugin-react: Vite plugin for React support
 
-**How to Use**
+How to Use
 
 - View profiles: Profiles are listed on the homepage.  
 - Search: Use the search bar to filter profiles by name.  
